@@ -114,8 +114,4 @@ Go to any Codeforces problem and submit a solution. Once the verdict changes to 
 
 ---
 
- 📄 License
-
-Copyright (c) 2026 Partho. All rights reserved.
-
 <p align="center">Made for competitive programmers🐸</p>
