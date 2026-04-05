@@ -31,7 +31,7 @@ Every synced solution automatically receives a beautifully crafted `README.md` t
 > 
 > | Field | Value |
 > |---|---|
-> | **Contest** | [1] |
+> | **Contest** | [1A] |
 > | **Problem** | [1A — Theatre Square] |
 > | **Rating** | 1000 |
 > | **Tags** | math |
